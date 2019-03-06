@@ -1,13 +1,16 @@
 {
-  "description": "test",
-  "setting": {
-    "urlCheck": true,
-    "es6": false,
-    "postcss": false,
-    "minified": false
-  },
-  "compileType": "miniprogram",
-  "appid": "wxe5b5293f45b0bf39",
-  "projectname": "larabbs-weapp",
-  "miniprogramRoot": "./dist"
+	"description": "test",
+	"setting": {
+		"urlCheck": false,
+		"es6": false,
+		"postcss": false,
+		"minified": false,
+		"newFeature": true,
+		"autoAudits": false
+	},
+	"compileType": "miniprogram",
+	"appid": "wxe5b5293f45b0bf39",
+	"projectname": "larabbs-weapp",
+	"miniprogramRoot": "dist/",
+	"condition": {}
 }
